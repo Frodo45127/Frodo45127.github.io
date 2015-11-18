@@ -19,7 +19,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 
 # Where things are
 source:       .
