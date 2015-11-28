@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Quién soy
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hola, soy **Frodo45127** y soy lo que se llama un chapuzas de la informática. Como me da pereza alargar esto, aquí os dejo links de contacto y esas cosas (todavia no he puesto comentarios en el blog):
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+- **Correo**: [{{site.email}}](mailto:{{site.email}})
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- **Twitter**: {% include icon-twitter.html username="Frodo45127" %}
+- **GitHub**: {% include icon-github.html username="Frodo45127" %} /
+[Blog][blog-src]
+
+
+[blog-src]: https://github.com/Frodo45127/Frodo45127.github.io

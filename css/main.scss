@@ -51,3 +51,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+// Centrado de imágenes de los post
+.img_post {
+    margin: 0 auto;
+    display: block;
+}
