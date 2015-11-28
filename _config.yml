@@ -11,7 +11,7 @@ email: frodo_gv@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Este es un blog en el que puedes encontrar soluciones simples a problemas comunes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://frodo45127.github.io" # the base hostname & protocol for your site
+url: "https://frodo45127.github.io" # the base hostname & protocol for your site
 twitter_username: Frodo45127
 github_username:  Frodo45127
 
