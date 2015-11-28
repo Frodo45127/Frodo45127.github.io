@@ -2,6 +2,7 @@
 layout: post
 title:  "Primer post (prueba)"
 categories: probando
+published:  yes
 ---
 #Vamos
 
