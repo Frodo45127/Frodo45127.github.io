@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo desactivar el brillo adaptable
+title: Cómo desactivar el brillo adaptable en un portátil con Windows
 tags: [tutoriales, tips, brillo adaptable]
 categories: [tutoriales, tips]
 published: yes
