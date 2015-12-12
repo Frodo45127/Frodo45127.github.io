@@ -5,7 +5,7 @@ tags: [tutoriales, tips, brillo adaptable]
 categories: [tutoriales, tips]
 published: yes
 ---
-Tengo un portátil HP. Es una basura, pero es lo que tengo. Y desde que tenía Windows 8 tiene la puñetera manía de cambiarme el brillo de la pantalla cuando le da la gana. Tras buscar un poco, descubrí que el culpable era el **brillo adaptable** (o "brillo adaptable"). Esta función cambia el brillo dependiendo de la luz del lugar en el que esté el ordenador. Y para entornos oscuros es horrible.
+Tengo un portátil HP. Es una basura, pero es lo que tengo. Y desde que tenía Windows 8 tiene la puñetera manía de cambiarme el brillo de la pantalla cuando le da la gana. Tras buscar un poco, descubrí que el culpable era el **brillo adaptable**. Esta función cambia el brillo dependiendo de la luz del lugar en el que esté el ordenador. Y para entornos oscuros es horrible.
 
 Hay una opción para desactivarlo **en los ajustes de energía** pero, cómo no, en mi HP no funciona. Así que, como estaba harto, me puse a buscar cómo desactivarlo y, aunque me costó, lo encontré. Para desactivar el brillo adaptable hay que:
 
