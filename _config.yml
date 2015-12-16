@@ -19,3 +19,12 @@ github_username:  Frodo45127
 markdown: kramdown
 highlighter: pygments
 permalink: /posts/:categories/:title/
+
+# Gems
+gems:
+  - jekyll-sitemap # Sitemap generation with the official gem
+  - jekyll-redirect-from # Redirect pages in case I change them
+  - jekyll-feed # Generate a feed (no more feed.xml in root)
+
+# Files excluded from site generation
+# exclude:
