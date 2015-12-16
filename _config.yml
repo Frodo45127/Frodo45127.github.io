@@ -28,3 +28,4 @@ gems:
 
 # Files excluded from site generation
 # exclude:
+# - README.md
