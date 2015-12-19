@@ -14,6 +14,10 @@ permalink: /info/
 - Podéis aprender más sobre las páginas web dinámicas en [este enlace][web-dinamica] (está en inglés).
 - Podéis aprender más sobre las páginas web estáticas en [este enlace][web-estatica] (está en inglés).
 
+### Enlaces de recursos de los posts
+
+- Gist para importar entradas de Blogger a Jekyll: [aquí][Gist-blogger].
+
 [web-dinamica]: https://en.wikipedia.org/wiki/Dynamic_web_page
 [web-estatica]: https://en.wikipedia.org/wiki/Static_web_page
 [jekyll-website]: http://jekyllrb.com/
@@ -24,3 +28,5 @@ permalink: /info/
 [github]: https://www.github.com
 [gh-pages-tutorial]: https://pages.github.com/
 [liquid-info]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+
+[Gist-blogger]: https://gist.github.com/Frodo45127/600043b73956ec9e5faf
