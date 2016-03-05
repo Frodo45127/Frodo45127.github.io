@@ -17,7 +17,7 @@ github_username:  Frodo45127
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /posts/:categories/:title/
 
 # Gems
