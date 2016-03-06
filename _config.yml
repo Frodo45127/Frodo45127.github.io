@@ -24,9 +24,11 @@ permalink: /posts/:categories/:title/
 
 # Gems
 gems:
-  - jekyll-sitemap # Sitemap generation with the official gem
   - jekyll-redirect-from # Redirect pages in case I change them
+  - jekyll-gist # Add support for Gist from Github
   - jekyll-feed # Generate a feed (no more feed.xml in root)
+  - jekyll-sitemap # Sitemap generation with the official gem
+
 
 # Files excluded from site generation
 # exclude:
