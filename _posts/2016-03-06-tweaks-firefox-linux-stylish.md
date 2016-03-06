@@ -41,7 +41,7 @@ Con esto firefox mostrará correctamente todos esos campos que antes mostraba ma
 El segundo fix es para la **barra de scroll**. Si os fijáis, en Windows con Firefox maximizado movéis el ratón al lado derecho de la pantalla, hacéis click y hacéis scroll. Pues en Linux no. La razón es que la barra de scroll **tiene un *borde* de un par de píxeles**, por lo que mover el ratón al lado derecho y hacer click no funciona. Tienes que mover con cuidado el ratón para atinarle a la barra. Como dicen en mi pueblo, "toca los huevos a más no poder".
 
 Para arreglarlo, cread un estilo nuevo en Stylish y pegad esto:
-```css
+{% highlight css %}
 @-moz-document url-prefix(http://),url-prefix(https://){
   scrollbar[orient="vertical"]{
     -moz-appearance:none!important;
@@ -50,7 +50,7 @@ Para arreglarlo, cread un estilo nuevo en Stylish y pegad esto:
     -moz-appearance:none!important;
   }
 }
-```
+{% endhighlight %}
 Con esto, la barra de scroll aparecerá sin ese molesto borde, pegada al lado derecho de la pantalla.
 
 Sobre las fuentes, el primero no recuerdo de donde lo saqué y el segundo es cosecha propia tras examinar un montón que decían arreglar la barra de scroll pero cambiaban cosas innecesarias.
