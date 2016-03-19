@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tweaks útiles para Firefox en Linux (con Stylish)
-tags: [linux, firefox, stylish]
+tags: [tweaks, linux, firefox, stylish]
 categories: [linux, firefox, stylish]
 published: yes
 ---

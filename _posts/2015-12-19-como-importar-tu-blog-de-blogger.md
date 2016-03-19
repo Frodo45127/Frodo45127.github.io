@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo importar tu blog de Blogger a Jekyll sin morir en el intento
-tags: [Jekyll, Blog, Blogger]
+tags: [jekyll, blog, blogger]
 categories: [jekyll]
 published: yes
 ---
