@@ -1,8 +1,7 @@
 ---
-layout: post
 title: ¡Shell Script para tontos, edición casera 2016!
-tags: [shellscript, manual]
-categories: [programacion, shellscript]
+tags: [Shellscript, Bash, Tutoriales]
+categories: [Linux]
 published: yes
 ---
 La historia de este manual es corta: me aburría en clase de ***Implantación de sistemas operativos***, el profesor explicaba mal no, lo siguiente, y vi que si seguíamos así en el examen de *Shell Script* suspendíamos casi todos, así que monté este manual en un par de horas. Cubre lo más básico y **es muy, pero que muy mejorable**, pero para salir del paso o a modo de chuleta sirve.

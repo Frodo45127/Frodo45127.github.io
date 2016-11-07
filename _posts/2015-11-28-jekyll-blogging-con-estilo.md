@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Jekyll, blogging con estilo
-tags: [Jekyll, Blogs]
-category: [jekyll]
+tags: [Jekyll]
+category: [Blog]
 published: yes
 ---
 ### Qué es Jekyll
-![Jekyll, sin Hyde](/img/jekyll-logo.png "Jekyll, sin Hyde esta vez"){: .img_post}
+![Jekyll, sin Hyde]({{ site.baseurl }}/images/posts/jekyll-logo.png "Jekyll, sin Hyde esta vez")
+
 Jekyll es un **generador de páginas web estáticas**, el cual permite crear blogs fácilmente. A diferencia de los clásicos CMS, Jekyll no necesita casi nada en el lado del servidor para funcionar (ni siquiera una base de datos). Esto hace que las páginas que funcionen con Jekyll necesiten muchísimos menos recursos y carguen muchísimo más rápido. Además, es **TOTALMENTE personalizable** y requiere un **mantenimiento mínimo**.
 
 La desventaja es que todo, todo, TODO, **se hace con un editor de texto**. Sí, nada de "*pulsa aquí para cambiar a cursiva*" ni cosas de esas. ¿Quieres crear una página de contacto? Al editor de texto. ¿Quieres cambiar de sitio un banner? Al editor de texto. ¿Quieres escribir un post? Al editor de texto.  

@@ -7,29 +7,41 @@
 
 # Site settings
 title: Ojalá fuera informático, V2
-email: frodo_gv@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Este es un blog en el que puedes encontrar soluciones simples a problemas comunes.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frodo45127.github.io" # the base hostname & protocol for your site
-twitter_username: Frodo45127
-github_username:  Frodo45127
+description: 'Este es un blog en el que puedes encontrar soluciones simples a problemas comunes.'
+url: 'https://frodo45127.github.io' # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+google_analytics: 'UA-70766983-1'
+disqus_shortname: 'frodo45127-github'
+
+author:
+  name: Frodo45127
+  email: frodo_gv@hotmail.com
+  twitter: Frodo45127
+  github_username: Frodo45127
+
+twitter:
+  username: Frodo45127
+
+defaults:
+  -
+    scope:
+      path: '_posts'
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /post/:year/:month/:day/:title/
 markdown: kramdown
-kramdown:
-  input: GFM
 highlighter: rouge
-permalink: /posts/:categories/:title/
 
-# Gems
-gems:
-  - jekyll-redirect-from # Redirect pages in case I change them
-  - jekyll-gist # Add support for Gist from Github
-  - jekyll-feed # Generate a feed (no more feed.xml in root)
-  - jekyll-sitemap # Sitemap generation with the official gem
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-
-# Files excluded from site generation
-# exclude:
-# - README.md
+gems: ['jekyll-paginate', 'jekyll-seo-tag']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

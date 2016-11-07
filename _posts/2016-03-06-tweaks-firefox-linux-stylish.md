@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Tweaks útiles para Firefox en Linux (con Stylish)
-tags: [tweaks, linux, firefox, stylish]
-categories: [linux, firefox, stylish]
+tags: [Firefox, Stylish]
+categories: [Linux]
 published: yes
 ---
 Si usais **Firefox en Linux**, sabréis que la interfaz funciona bajo GTK (no recuerdo si el 2 o el 3). Y sabréis que esta integración tiende a interferir cuando trasteas con temas oscuros, mostrando por ejemplo letras negras bajo fondo negro en el menú desplegable de la barra de direcciones, **lo cual es ilegible**. Esa es la primera cosa que vamos a arreglar. Para ello necesitaremos [Stylish][Stylish], un **add-on para personalizar la interfaz** de firefox y las páginas web que queramos.

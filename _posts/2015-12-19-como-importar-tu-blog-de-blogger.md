@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Cómo importar tu blog de Blogger a Jekyll sin morir en el intento
-tags: [jekyll, blog, blogger]
-categories: [jekyll]
+tags: [Jekyll, Blogger]
+categories: [Blog]
 published: yes
 ---
 Yo tuve un blog en Blogger, o Blogspot, y el ótro día se me ocurrió la no tan genial idea de "***Oye, ¿y si importo algunas de las entradas del blog viejo al nuevo?***". Si alguna vez vuelvo a pensar en algo así, pegadme un tiro.
